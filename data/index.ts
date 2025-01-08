@@ -1,13 +1,13 @@
 export const navbarData = {
-  homeTitle: "Sanjida's Blog",
+  homeTitle: "Riyad's Blog",
 }
 
 export const footerData = {
-  author: 'Sanjida Nasrin',
+  author: 'Al Asad Nur Riyad',
   aboutAuthor:
-    'Hi! I am Sanjida, a Tech enthusiast, problem solver and software developer.',
+    'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
   authorInterest:
-    "I have a fair amount of knowledge of Javascript, Typescript, ReactJs, PHP and Laravel.",
+    "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
   aboutTheSite:
     "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
 }
@@ -30,22 +30,22 @@ export const categoryPage = {
 }
 
 export const aboutPage = {
-  title: 'Sanjida Nasrin',
-  description: 'Software Developer, Problem Solver, Web Enthusiast.',
+  title: 'Al Asad Nur Riyad',
+  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
   aboutMe:
-    "I'm a passionate software developer who loves writing code and constantly learning new things. Though currently unemployed, I'm actively honing my skills and crafting projects to sharpen my expertise. Problem-solving is my superpower, and I'm always up for tackling challenges head-on!",
+    "Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!",
 }
 
 export const seoData = {
-  title: `Sanjida's Blog | Sanjidas Blog`,
+  title: `Riyad's Blog | Riyads Blog`,
   ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Sanjida. A Software Developer, with over Proper knowledge in software development. - Sanjidas Blog | Sanjida's Blog`,
-  twitterDescription: `Sanjida's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Sanjidas Blog | Sanjida's Blog`,
+  description: `Hi I am Riyad. A Software Engineer at AppsCode, with over 2.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
+  twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
   image:
     'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
   mySite: 'https://blog-nurriyad.vercel.app',
-  twitterHandle: '@sntanju07',
-  mailAddress: 'sntanju07@gmail.com',
+  twitterHandle: '@qdnvubp',
+  mailAddress: 'asadnurriyad@gmail.com',
 }
 
 export const siteMetaData = [
