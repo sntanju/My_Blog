@@ -55,7 +55,7 @@ defineOgImageComponent('About', {
                 <Icon name="fa:twitter-square" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://stackoverflow.com/users/16781395/sntanju07"
+                to="https://stackoverflow.com/users/x/sntanju07"
                 target="_blank"
                 class="px-2 py-1 lg:px-3 lg:py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="StackOverflow"
@@ -75,7 +75,7 @@ defineOgImageComponent('About', {
         <p>{{ aboutPage.aboutMe }}</p>
       </div>
       <div class="hidden sm:block col-span-3">
-        <NuxtImg src="/riyad.jpg" width="450" height="500" quality="50" class="rounded-md" />
+        <NuxtImg src="/tanju.jpg" width="450" height="500" quality="50" class="rounded-md" />
       </div>
     </div>
   </div>
