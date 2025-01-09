@@ -43,7 +43,7 @@ export const seoData = {
   twitterDescription: `Sanjida's Blog, where I play around with React, PHP, Larevel, and more and showcase my blog, resources, etc - Sanjidas Blog | Sanjida's Blog`,
   image:
     'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://my-blog-vert-six.vercel.app/',
+  mySite: 'https://blog-nurriyad.vercel.app',
   twitterHandle: '@sntanju07',
   mailAddress: 'sntanju07@gmail.com',
 }
